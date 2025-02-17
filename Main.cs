@@ -1,1 +1,1 @@
-("1234")
+Console.WriteLine("4");
