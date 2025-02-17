@@ -3,3 +3,13 @@ C:\Program2\GitHubPractice2\obj\Debug\net8.0\Program2.AssemblyInfoInputs.cache
 C:\Program2\GitHubPractice2\obj\Debug\net8.0\Program2.AssemblyInfo.cs
 C:\Program2\GitHubPractice2\obj\Debug\net8.0\Program2.csproj.CoreCompileInputs.cache
 C:\Program2\GitHubPractice2\obj\Debug\net8.0\Program2.sourcelink.json
+C:\Program2\GitHubPractice2\bin\Debug\net8.0\Program2.exe
+C:\Program2\GitHubPractice2\bin\Debug\net8.0\Program2.deps.json
+C:\Program2\GitHubPractice2\bin\Debug\net8.0\Program2.runtimeconfig.json
+C:\Program2\GitHubPractice2\bin\Debug\net8.0\Program2.dll
+C:\Program2\GitHubPractice2\bin\Debug\net8.0\Program2.pdb
+C:\Program2\GitHubPractice2\obj\Debug\net8.0\Program2.dll
+C:\Program2\GitHubPractice2\obj\Debug\net8.0\refint\Program2.dll
+C:\Program2\GitHubPractice2\obj\Debug\net8.0\Program2.pdb
+C:\Program2\GitHubPractice2\obj\Debug\net8.0\Program2.genruntimeconfig.cache
+C:\Program2\GitHubPractice2\obj\Debug\net8.0\ref\Program2.dll
